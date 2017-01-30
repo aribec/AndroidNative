@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Envia UOC</string>
+    <string name="titol">Benvingut a Envia UOC</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_state">Estat</string>
+    <string name="title_activity_shipping_point">Nou</string>
+   	<string name="username">Usuari</string>
+   	<string name="password">Contrasenya</string>
+   	<string name="Login">Entrar</string>
+   	<string name="attempts">Attempts Left:</string>
+   	<string name="estat">Estat</string>
+   	<string name="nouEnviament">Nou Enviament</string>
+   	<string name="logout">Desconnectar</string>
+   	<string name="deliveryAddress">Direcció d\'entrega: </string>
+   	<string name="sendingAddress">Direcció d\'origen: </string>
+   	<string name="sendTime">Data d\'entrega: </string>
+   	<string name="location">Localització: </string>
+   	<string name="wrongCredentials">Usuari o contrasenya incorrecte</string>
+	<string name="wrongCredentialsMaxAttempts">S\'ha superat el límit d\'intents</string>
+	<string name="name">Nom: </string>
+	<string name="save">Guardar</string>
+	<string name="calendar">Calendari</string>
+	<string name="withoutData">Sense Dades</string>
+	<string name="missingData">S\'han d\'introduir totes les dades</string>
+	<string name="saveOk">Enviament guardat correctament</string>		  	   	
+	<string name="config">Configuració</string>		  	   	
+	<string name="setOrigin">Escull Origen: </string>		  	   	
+	<string name="setDestination">i destí: </string>		  	   	
+		
+	<!-- Estats dels enviaments -->
+	<string name="pending">Pendent</string>
+	<string name="preparing">Preparant</string>
+	<string name="inprocess">En procés d\'enviament</string>
+	<string name="dispatched">Enviat</string>
+	<string name="delivered">Entregat</string>
+	
+</resources>
